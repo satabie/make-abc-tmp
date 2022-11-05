@@ -52,7 +52,7 @@ gcc version 11.3.0
 # 使用方法
 abcの作業ディレクトリにclone.
 ```
-git clone https://github.com/satabie/make-abc-tmp.git
+git clone https://github.com/satabie/make-abc-tmp.git &&
 cd make-abc-tmp
 ```
 template.txtを自分の好きなように編集する。
