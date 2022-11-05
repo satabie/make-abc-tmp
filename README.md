@@ -50,7 +50,7 @@ Ubuntu on WSL2
 gcc version 11.3.0
 
 # 使用方法
-以下をターミナルにコピペ。
+自分のabcのディレクトリに移動したら以下をターミナルにコピペ。
 ```
 git clone https://github.com/satabie/make-abc-tmp.git &&
 cd make-abc-tmp
